@@ -33,7 +33,7 @@
 </template>
 
 <script>
-
+import "milligram";
 
 export default {
 // CZESC 1
@@ -68,14 +68,6 @@ export default {
   }
 
 }
-</script>
-
-<script>
-  import "milligram";
-
-  export default {
-    // ...
-  };
 </script>
 
 <style>
